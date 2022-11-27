@@ -28,7 +28,7 @@ public class TestNGAnnotations {
         System.out.println("C test case");
     }
 
-    @Test(priority = 2)
+    @Test(priority = 2, groups = "regression")
     public void DTestCase() {
         System.out.println("D test case");
     }

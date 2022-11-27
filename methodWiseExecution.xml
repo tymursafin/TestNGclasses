@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="methodWiseExecution">
+        <classes>
+            <class name="class01.TestNGAnnotations">
+                <methods>
+                    <include name="ATestCase"></include>
+                    <include name="BTestCase"></include>
+                    <include name="CTestCase"></include>
+                    <exclude name="DTestCase"></exclude>
+                    <include name="ETestCase"></include>
+                </methods>
+            </class>
+            <class name="class02.HardAssertions">
+                <methods>
+                    <exclude name="invalidCredentials"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
