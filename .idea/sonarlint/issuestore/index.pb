@@ -1,3 +1,23 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+G
+methodWiseExecution.xml,5\8\58fed62c0c367671c30a92ec2402fb92851c9633
+M
+classWiseExecutionExamlpe.xml,3\8\382f26f89bff54a1832314c7b642a77207cc1989
+Y
+)src/test/java/class02/SoftAssertions.java,1\0\10946d4a88047fb3f96d5eeb54b11552228cfbd5
+H
+packageWiseExecution.xml,6\4\64b2f483d59d04bb021a6fb1af8d29abe6564319
+D
+MultipleTestTags.xml,6\e\6eea59a06af04e629a13c3929545e7764bef40dd
+\
+,src/test/java/class01/TestNGAnnotations.java,7\a\7a162b091f5a7fcbb9858ca3ac72be1703418ed2
+Y
+)src/test/java/class02/HardAssertions.java,e\a\ea4a9658d5e558bc8f6da5ca2d17de448f390e69
+F
+groupWiseExecution.xml,6\f\6f33f514257d4c70287413baf4d302f19b24d790
+U
+%src/test/java/class01/TestNGDemo.java,9\e\9e6421884b5efa4299f5dfb0d82bb18674a98cd8
+A
+labelingTests.xml,8\a\8a5bde0db7a8b9dbca91117e86b340f9d510c0f5
