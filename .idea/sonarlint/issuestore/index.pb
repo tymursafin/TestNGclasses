@@ -21,3 +21,9 @@ U
 %src/test/java/class01/TestNGDemo.java,9\e\9e6421884b5efa4299f5dfb0d82bb18674a98cd8
 A
 labelingTests.xml,8\a\8a5bde0db7a8b9dbca91117e86b340f9d510c0f5
+?
+beforeClass.xml,c\4\c4ea9731942dcbd23dbd6c15e786ffc28830a83c
+V
+&src/test/java/class03/Annotations.java,e\d\edd8e9371b6a5b86e1d7e0284a80ced45d855659
+A
+listenersDemo.xml,f\e\fe073087a1104ed82c808588b23f62f607b33247
